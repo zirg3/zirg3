@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2>Hi, I'm Vitaly Lazarchuk</h2>
 <h3>Web Developer based in: Russia. Specialized in technologies such as JavaScript.</h3>
 <p>As a self-taught developer for almost 2 years, I love learning new things, my main area of learning is Javascript, I enjoy building sites with technologies like React.Js, Next.Js, I'm constantly learning, and also improving things I already know, I have experience in Front-end and in Backend.</p>
